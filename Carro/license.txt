@@ -1,0 +1,11 @@
+Model Information:
+* title:	Jaguar E_TYPE
+* source:	https://sketchfab.com/3d-models/jaguar-e-type-32aa25ea6e1b40f395b2aff33ca0a279
+* author:	Nommoc (https://sketchfab.com/kikumi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Jaguar E_TYPE" (https://sketchfab.com/3d-models/jaguar-e-type-32aa25ea6e1b40f395b2aff33ca0a279) by Nommoc (https://sketchfab.com/kikumi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
