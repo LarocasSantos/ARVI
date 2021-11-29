@@ -1,0 +1,11 @@
+Model Information:
+* title:	a Single Plant Leaf
+* source:	https://sketchfab.com/3d-models/a-single-plant-leaf-5d1d3453adb94e3e88c8658ae4736ac9
+* author:	3Dee (https://sketchfab.com/mellydeeis)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "a Single Plant Leaf" (https://sketchfab.com/3d-models/a-single-plant-leaf-5d1d3453adb94e3e88c8658ae4736ac9) by 3Dee (https://sketchfab.com/mellydeeis) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
